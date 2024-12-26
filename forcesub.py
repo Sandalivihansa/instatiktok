@@ -5,7 +5,7 @@ from aiogram.utils import executor
 BOT_TOKEN = "7959483386:AAHJgAVAOZypnJAfDjhD8pdPfIXZLz7-Br4"  # Replace with your actual bot token
 CHANNEL_USERNAME = "@slmusicmania"  # Replace with your actual channel username
 
-# Initialize bot and dispatcher
+# Initialize bot and dispatcher 
 bot = Bot(token=BOT_TOKEN)
 dp = Dispatcher(bot)
 
